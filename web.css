@@ -1,4 +1,9 @@
-p#blue {
+p.blue {
     font-size: large;
     color: blue;
+}
+
+p.red {
+    font-size: large;
+    color: red;
 }
