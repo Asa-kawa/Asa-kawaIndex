@@ -7,3 +7,11 @@ p.red {
     font-size: large;
     color: red;
 }
+
+#button {
+    font-size: 30px;
+    border: none;
+    background: none;
+    text-decoration: underline;
+    padding: 0;
+}
