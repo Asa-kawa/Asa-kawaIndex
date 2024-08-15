@@ -2,7 +2,7 @@ const button = document.getElementById("button");
 const text = document.getElementById("text");
 
 button.addEventListener("click", () => {
-    open("https://asa-kawa.github.io/Asa-kawaSample/");
+    location.href = ("https://asa-kawa.github.io/Asa-kawaSample/");
 });
 
 button.addEventListener("mouseover", () => {
