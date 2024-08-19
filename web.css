@@ -1,9 +1,9 @@
-p.blue {
+.blue {
     font-size: large;
     color: blue;
 }
 
-p.red {
+.red {
     font-size: large;
     color: red;
 }
