@@ -15,3 +15,8 @@
     text-decoration: underline;
     padding: 0;
 }
+
+.button {
+    font-size: larger;
+    margin: 10px 0px 10px 0px;
+}
